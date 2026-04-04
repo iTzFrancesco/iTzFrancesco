@@ -44,9 +44,7 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iTzFrancesco&show_icons=true"/>
-&nbsp;
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iTzFrancesco&layout=compact"/>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iTzFrancesco&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=FF6B00"/>
 
 </div>
 
