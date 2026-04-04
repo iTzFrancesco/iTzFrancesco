@@ -22,7 +22,7 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 <div align="center">
 
@@ -40,13 +40,13 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=iTzFrancesco&show_icons=true&theme=dark&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&bg_color=0d1117&border_color=FF6B00&count_private=true"/>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iTzFrancesco&show_icons=true"/>
 &nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzFrancesco&layout=compact&theme=dark&title_color=FF6B00&text_color=ffffff&bg_color=0d1117&border_color=FF6B00"/>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iTzFrancesco&layout=compact"/>
 
 </div>
 
@@ -68,7 +68,7 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 ---
 
-## 🚀 My Projects
+## My Projects
 
 ### 🌐 [Eclipsed Network](https://eclipsenetwork2.netlify.app)
 > Official website for the **Eclipsed Minecraft server**, designed with a strong focus on modern UI/UX and modern frontend technologies.
@@ -96,7 +96,7 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 
 <div align="center">
 
