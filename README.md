@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=280&section=header&text=Francesco&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Italy&descAlignY=58&descSize=22&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=280&section=header&text=Francesco&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Web%20Stack%20Developer%20%E2%80%A2%20Italy&descAlignY=58&descSize=22&descColor=ffffff" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Francesco+%F0%9F%91%8B;Full+Stack+Developer+from+Italy+%F0%9F%87%AE%F0%9F%87%B9;Building+the+Future+%F0%9F%9A%80;Always+learning%2C+always+growing+%E2%9C%A8)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Francesco+%F0%9F%91%8B;Web+Stack+Developer+from+Italy+%F0%9F%87%AE%F0%9F%87%B9;Building+the+Future+%F0%9F%9A%80;Always+learning%2C+always+growing+%E2%9C%A8)
 
 </div>
 
@@ -17,7 +17,7 @@
 ## 🟠 Who am I?
 
 Hey! I'm **Francesco**, a 17-year-old developer from Italy and the creator of [Traflix](https://traflix.netlify.app).
-I started programming in **2024** and I'm currently working on various projects including **web development** and personal work.
+I started programming in **2024** and I'm currently working on various projects including **Web development** and personal work.
 I enjoy creating clean, responsive interfaces and writing efficient code — always looking to learn new technologies and push my skills further.
 
 ---
