@@ -28,8 +28,8 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 ![Python](https://img.shields.io/badge/Python-FF6B00?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF6B00?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF6B00?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF6B00?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-FF6B00?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-FF6B00?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-FF6B00?style=for-the-badge&logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-FF6B00?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-FF6B00?style=for-the-badge&logo=node.js&logoColor=white)
@@ -91,9 +91,8 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 ### 🌐 [Traflix](https://traflix.netlify.app)
 > My **personal portfolio**, built from scratch to showcase my projects, skills and personality as a developer.
 
-![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-FF6B00?style=flat-square&logo=javascript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-FF6B00?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-FF6B00?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-FF6B00?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
