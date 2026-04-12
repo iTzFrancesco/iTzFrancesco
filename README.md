@@ -16,7 +16,7 @@
 
 ## 🟠 Who am I?
 
-Hey! I'm **Francesco**, a 17-year-old developer from Italy and the creator of [Traflix](https://traflix.netlify.app).
+Hey! I'm **Francesco**, a 17-year-old developer from Italy and the creator of [Traflix](https://traflix.dev).
 I started programming in **2024** and I'm currently working on various projects including **Web development** and personal work.
 I enjoy creating clean, responsive interfaces and writing efficient code — always looking to learn new technologies and push my skills further.
 
