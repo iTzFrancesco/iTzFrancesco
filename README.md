@@ -108,8 +108,6 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=180&section=footer&a
-  nimation=twinkling&reversal=true&text=%C2%A9%202026%20%C2%B7%20Francesco%20%C2%B7%20Building%20the%2
-  0Future&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=180&section=footer&animation=twinkling&reversal=true&text=%C2%A9%202026%20%C2%B7%20Francesco%20%C2%B7%20Building%20the%20Future&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
