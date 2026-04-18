@@ -68,7 +68,7 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 ## My Projects
 
-### 🌐 [Eclipsed Network](https://eclipsenetwork2.netlify.app)
+### 🌐 [Eclipsed Network](https://itzfrancesco.github.io/EclipseNetwork/)
 > Official website for the **Eclipsed Minecraft server**, designed with a strong focus on modern UI/UX and modern frontend technologies.
 
 ![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=white)
@@ -77,7 +77,7 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 ---
 
-### 🌐 [JadeMC](https://jademc.fun)
+### 🌐 [JadeMC](https://itzfrancesco.github.io/JadeMC/)
 > Official website for the **JadeMC Minecraft server**, focused on community onboarding, strong branding, and modern frontend performance.
 
 ![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=white)
@@ -86,7 +86,7 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 ---
 
-### 🌐 [Traflix](https://traflix.netlify.app)
+### 🌐 [Traflix](https://traflix.dev)
 > My **personal portfolio**, built from scratch to showcase my projects, skills and personality as a developer.
 
 ![HTML](https://img.shields.io/badge/HTML-FF6B00?style=for-the-badge&logo=html5&logoColor=white)
@@ -100,7 +100,7 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 [![Discord](https://img.shields.io/badge/Discord-FF6B00?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/811969190742327326)
 [![GitHub](https://img.shields.io/badge/GitHub-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iTzFrancesco)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=firefox&logoColor=white)](https://traflix.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=firefox&logoColor=white)](https://traflix.dev)
 
 </div>
 
@@ -108,6 +108,6 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=180&section=footer&animation=twinkling&reversal=true&text=%C2%A9%202026%20%C2%B7%20Francesco%20%C2%B7%20Building%20the%20FuturefontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=180&section=footer&animation=twinkling&reversal=true&text=%C2%A9%202026%20%C2%B7%20Francesco%20%C2%B7%20Building%20the%20Future%20fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
