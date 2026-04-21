@@ -68,8 +68,8 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 ## My Projects
 
-### 🌐 [Eclipsed Network](https://itzfrancesco.github.io/EclipseNetwork/)
-> Official website for the **Eclipsed Minecraft server**, designed with a strong focus on modern UI/UX and modern frontend technologies.
+### 🌐 [Eclipse Network](https://eclipsenetwork2.netlify.app/)
+> Official website for the **Eclipse Minecraft server**, designed with a strong focus on modern UI/UX and modern frontend technologies.
 
 ![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-FF6B00?style=flat-square&logo=javascript&logoColor=white)
@@ -77,7 +77,7 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 ---
 
-### 🌐 [JadeMC](https://itzfrancesco.github.io/JadeMC/)
+### 🌐 [JadeMC](https://www.jademc.fun/)
 > Official website for the **JadeMC Minecraft server**, focused on community onboarding, strong branding, and modern frontend performance.
 
 ![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=white)
