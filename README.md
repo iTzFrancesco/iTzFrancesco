@@ -77,7 +77,7 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 ---
 
-### 🌐 [JadeMC](https://www.jademc.fun/)
+### 🌐 [JadeMC](https://jademc.netlify.app/)
 > Official website for the **JadeMC Minecraft server**, focused on community onboarding, strong branding, and modern frontend performance.
 
 ![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=white)
