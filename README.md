@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Francesco+%F0%9F%91%8B;Web+Stack+Developer+from+Italy+%F0%9F%87%AE%F0%9F%87%B9;Building+the+Future+%F0%9F%9A%80;Always+learning%2C+always+growing+%E2%9C%A8)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Francesco+%F0%9F%91%8B;Full+Stack+Developer+from+Italy+%F0%9F%87%AE%F0%9F%87%B9;Building+the+Future+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9C%A8)
 
 </div>
 
@@ -17,7 +17,7 @@
 ## 🟠 Who am I?
 
 Hey! I'm **Francesco**, a 17-year-old developer from Italy and the creator of [Traflix](https://traflix.dev).
-I started programming in **2024** and I'm currently working on various projects including **Web development** and personal work.
+I started programming in **2024** and I'm currently working on various projects including **Web development** and client work.
 I enjoy creating clean, responsive interfaces and writing efficient code — always looking to learn new technologies and push my skills further.
 
 ---
@@ -30,6 +30,7 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF6B00?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-FF6B00?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-FF6B00?style=for-the-badge&logo=css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-FF6B00?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-FF6B00?style=for-the-badge&logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-FF6B00?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-FF6B00?style=for-the-badge&logo=node.js&logoColor=white)
@@ -68,8 +69,18 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 ## My Projects
 
+### 🌐 [GigaMC](https://gigamc.it)
+> Official website contribution for the **GigaMC Network** — built the full tournament management system on the backend, and a forum page with complete backend including staff applications with Discord OAuth and a dedicated admin panel.
+
+![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF6B00?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-FF6B00?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-FF6B00?style=flat-square&logo=node.js&logoColor=white)
+
+---
+
 ### 🌐 [Eclipse Network](https://eclipsenetwork2.netlify.app/)
-> Official website for the **Eclipse Minecraft server**, designed with a strong focus on modern UI/UX and modern frontend technologies.
+> Official website for the **Eclipse Minecraft server**, designed with a strong focus on modern UI/UX and frontend technologies.
 
 ![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-FF6B00?style=flat-square&logo=javascript&logoColor=white)
@@ -89,8 +100,9 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 ### 🌐 [Traflix](https://traflix.dev)
 > My **personal portfolio**, built from scratch to showcase my projects, skills and personality as a developer.
 
-![HTML](https://img.shields.io/badge/HTML-FF6B00?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-FF6B00?style=for-the-badge&logo=css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-FF6B00?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-FF6B00?style=flat-square&logo=css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-FF6B00?style=flat-square&logo=node.js&logoColor=white)
 
 ---
 
