@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Francesco+%F0%9F%91%8B;Full+Stack+Developer+from+Italy+%F0%9F%87%AE%F0%9F%87%B9;Building+the+Future+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9C%A8)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Francesco+%F0%9F%91%8B;Full+Stack+Developer+from+Italy+%F0%9F%87%AE%F0%9F%87%B9;Deployed+while+you+were+reading+this+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9C%A8)
 
 </div>
 
@@ -120,6 +120,6 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=180&section=footer&animation=twinkling&reversal=true&text=%C2%A9%202026%20%C2%B7%20Francesco%20%C2%B7%20Building%20the%20Future&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=180&section=footer&animation=twinkling&reversal=true&text=%C2%A9%202026%20%C2%B7%20Traflix%20%C2%B7%20Deployed%20while%20you%20were%20reading%20this&fontSize=14&fontColor=ffffff&fontAlignY=65" width="100%"/></div>
 
 </div>
