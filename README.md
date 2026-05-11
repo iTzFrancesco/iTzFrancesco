@@ -69,7 +69,7 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 ## My Projects
 
-### 🌐 [GigaMC](https://gigamc.it)
+### 🌐 [GigaMC](https://gigamc2.netlify.app)
 > Official website contribution for the **GigaMC Network** — built the full tournament management system on the backend, and a forum page with complete backend including staff applications with Discord OAuth and a dedicated admin panel.
 
 ![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=white)
@@ -100,9 +100,9 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 ### 🌐 [Traflix](https://traflix.dev)
 > My **personal portfolio**, built from scratch to showcase my projects, skills and personality as a developer.
 
-![HTML](https://img.shields.io/badge/HTML-FF6B00?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-FF6B00?style=flat-square&logo=css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-FF6B00?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-FF6B00?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-FF6B00?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-FF6B00?style=for-the-badge&logo=react&logoColor=white)
 
 ---
 
