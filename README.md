@@ -74,7 +74,7 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 ![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-FF6B00?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-FF6B00?style=flat-square&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-FF6B00?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-FF6B00?style=flat-square&logo=node.js&logoColor=white)
 
 ---
@@ -84,7 +84,7 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 ![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-FF6B00?style=flat-square&logo=javascript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-FF6B00?style=flat-square&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-FF6B00?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -93,7 +93,7 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 ![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-FF6B00?style=flat-square&logo=javascript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-FF6B00?style=flat-square&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-FF6B00?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -102,7 +102,7 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 ![Next.js](https://img.shields.io/badge/Next.js-FF6B00?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-FF6B00?style=for-the-badge&logo=react&logoColor=white)
-![React](https://img.shields.io/badge/React-FF6B00?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-FF6B00?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
 
