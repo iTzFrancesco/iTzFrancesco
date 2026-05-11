@@ -101,7 +101,8 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 > My **personal portfolio**, built from scratch to showcase my projects, skills and personality as a developer.
 
 ![Next.js](https://img.shields.io/badge/Next.js-FF6B00?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-FF6B00?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-FF6B00?style=flat-square&logo=javascript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-FF6B00?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
