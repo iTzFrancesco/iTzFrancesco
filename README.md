@@ -36,6 +36,10 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 ![Node.js](https://img.shields.io/badge/Node.js-FF6B00?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF6B00?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF6B00?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF6B00?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF6B00?style=for-the-badge&logo=aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-FF6B00?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-FF6B00?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 </div>
 
