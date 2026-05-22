@@ -24,6 +24,10 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 
 ## My Tech Stack
 
+The tools I reach for when it's time to build from dev to prod.
+From UI to database, i don't stop at the frontend.
+
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-FF6B00?style=for-the-badge&logo=python&logoColor=white)
@@ -84,7 +88,7 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 ---
 
 ### 🌐 [Eclipse Network](https://eclipsenetwork2.netlify.app/)
-> Official website for the **Eclipse Minecraft server**, designed with a strong focus on modern UI/UX and frontend technologies.
+> Official website for the **Eclipsed Minecraft server**, built for the community, focused on speed and a clean first impression.
 
 ![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-FF6B00?style=flat-square&logo=javascript&logoColor=white)
@@ -93,7 +97,7 @@ I enjoy creating clean, responsive interfaces and writing efficient code — alw
 ---
 
 ### 🌐 [JadeMC](https://jademc.netlify.app/)
-> Official website for the **JadeMC Minecraft server**, focused on community onboarding, strong branding, and modern frontend performance.
+> Official website for the **JadeMC Minecraft server**, branding-first. Fast by default.
 
 ![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-FF6B00?style=flat-square&logo=javascript&logoColor=white)
