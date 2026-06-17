@@ -78,6 +78,27 @@ From UI to database, i don't stop at the frontend.
 
 ## My Projects
 
+### 🌐 [HeroMC](https://heromc.cc)
+> Official website for the **HeroMC Network** — featuring an immersive Three.js 3D parallax homepage, a full admin panel with Supabase, Google OAuth, live server status tracking, staff management system, and a dedicated backend. Designed for performance and brand presence.
+
+![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF6B00?style=flat-square&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-FF6B00?style=flat-square&logo=three.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-FF6B00?style=flat-square&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-FF6B00?style=flat-square&logo=node.js&logoColor=white)
+
+---
+
+### Traflix Voice
+> **Local voice dictation** built on Whisper — hold a hotkey, speak, release, text appears where you're typing. No API calls, no subscriptions, no data leaving the machine. Tauri (Rust) + Python sidecar architecture. Used daily in my own workflow.
+
+![Rust](https://img.shields.io/badge/Rust-FF6B00?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF6B00?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF6B00?style=flat-square&logo=javascript&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FF6B00?style=flat-square&logo=tauri&logoColor=white)
+
+---
+
 ### 🌐 [GigaMC](https://gigamc2.netlify.app)
 > Official website contribution for the **GigaMC Network** — built the full tournament management system on the backend, and a forum page with complete backend including staff applications with Discord OAuth and a dedicated admin panel.
 
