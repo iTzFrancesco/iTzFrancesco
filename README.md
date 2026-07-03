@@ -90,7 +90,7 @@ From UI to database, i don't stop at the frontend.
 ---
 
 ### Traflix Voice
-> **Local voice dictation** built on Whisper — hold a hotkey, speak, release, text appears where you're typing. No API calls, no subscriptions, no data leaving the machine. Tauri (Rust) + Python sidecar architecture. Used daily in my own workflow.
+> **Voice dictation with local Whisper.cpp or cloud Groq LPU** — hold a hotkey, speak, release, text appears where you're typing. Local mode for privacy, Groq cloud for speed. Tauri (Rust) + Python sidecar architecture. Used daily in my own workflow.
 
 ![Rust](https://img.shields.io/badge/Rust-FF6B00?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FF6B00?style=flat-square&logo=python&logoColor=white)
