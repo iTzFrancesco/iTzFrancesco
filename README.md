@@ -109,15 +109,6 @@ From UI to database, i don't stop at the frontend.
 
 ---
 
-### 🌐 [Eclipse Network](https://eclipsenetwork2.netlify.app/)
-> Official website for the **Eclipsed Minecraft server**, built for the community, focused on speed and a clean first impression.
-
-![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-FF6B00?style=flat-square&logo=javascript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-FF6B00?style=flat-square&logo=tailwind-css&logoColor=white)
-
----
-
 ### 🌐 [JadeMC](https://jademc.netlify.app/)
 > Official website for the **JadeMC Minecraft server**, branding-first. Fast by default.
 
