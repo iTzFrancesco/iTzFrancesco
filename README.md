@@ -52,11 +52,8 @@ From UI to database, i don't stop at the frontend.
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iTzFrancesco&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=FF6B00"/>
-
-</div>
+Consistency over perfection.
+Open source when I can, private when I must.
 
 <br/>
 
