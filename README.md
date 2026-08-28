@@ -1,18 +1,16 @@
 # Hi, I'm Francesco 👋
 
-**Full-Stack AI Engineer building practical software from Italy.**
-
-I'm a 17-year-old developer building web products, local-first AI tools, and hardware-to-software systems. Since 2024, I've been shipping products end to end — from the interface to the APIs, data layer, and deployment.
+I'm a 17-year-old Full-Stack AI Engineer from Italy. I build web products, local-first AI tools, and hardware-to-software systems, taking them from interface to deployment since 2024.
 
 ## Start Here
 
-- 🛸 [DJI RC-N1C Flight Deck](https://github.com/iTzFrancesco/dji-rcn1c-flight-deck) — open-source bridge for PC and Android flight simulators.
-- 🎙️ [Traflix Voice](https://github.com/iTzFrancesco/Traflix-Voice) — privacy-first desktop dictation with local Whisper.cpp and optional Groq LPU inference.
-- 🧱 [GigaMC](https://gigamc2.netlify.app) — full-stack community platform for tournaments, forums, and staff workflows.
+- 🛸 [DJI RC-N1C Flight Deck](https://github.com/iTzFrancesco/dji-rcn1c-flight-deck): open-source bridge for PC and Android flight simulators.
+- 🎙️ [Traflix Voice](https://github.com/iTzFrancesco/Traflix-Voice): privacy-first desktop dictation with local Whisper.cpp and optional Groq LPU inference.
+- 🧱 [GigaMC](https://gigamc2.netlify.app): full-stack community platform for tournaments, forums, and staff workflows.
 
 ## What I build
 
-I build web products, local-first AI tools, and systems that connect hardware to software. I like taking complex workflows — from community operations to voice input to flight controls — and making them useful, reliable, and easy to use.
+I build web products, local-first AI tools, and systems that connect hardware to software. I like turning complex workflows such as community operations, voice input, and flight controls into software that is useful, reliable, and easy to use.
 
 ## Stack
 
