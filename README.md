@@ -10,7 +10,7 @@ I'm a 17-year-old Full-Stack AI Engineer from Italy. I build web products, local
 
 ## What I build
 
-Projects that turn messy workflows into focused tools, from community operations to voice and hardware interfaces. I focus on local-first architecture, practical UX, and the engineering details that make software reliable from first commit to deployment.
+Projects that turn messy workflows into focused tools, from AI tooling and community operations to voice and hardware interfaces. I focus on local-first architecture, practical UX, and the engineering details that make software reliable from first commit to deployment.
 
 ## Stack
 
@@ -20,21 +20,15 @@ Projects that turn messy workflows into focused tools, from community operations
 
 ### [DJI RC-N1C Flight Deck](https://github.com/iTzFrancesco/dji-rcn1c-flight-deck)
 
-An open-source bridge for using the DJI RC-N1C with PC and Android flight simulators. I built the input path over USB and Wi-Fi, mapped controller signals to a virtual Xbox controller on Windows, and added a real-time dashboard for connection and signal state.
-
-**Tech:** Python · USB/VCOM · UDP/Wi-Fi · ViGEmBus · Android
+An open-source DJI RC-N1C input bridge that brings the physical remote controller to PC and Android flight simulators. I built the USB/VCOM and UDP/Wi-Fi transport in Python, mapped sticks and buttons to a ViGEmBus virtual Xbox controller on Windows, and added a local dashboard for connection and signal state.
 
 ### [Traflix Voice](https://github.com/iTzFrancesco/Traflix-Voice)
 
-A privacy-first desktop dictation app with a Rust/Tauri shell and a Python transcription sidecar. It switches between local Whisper.cpp inference and optional Groq LPU inference, then uses a global hotkey and auto-paste flow to put text directly into the active application.
-
-**Tech:** Rust · Tauri · Python · Whisper.cpp · Groq LPU
+An open-source, privacy-first desktop dictation app that turns speech into text inside the active application. I built the Rust/Tauri desktop shell and Python transcription sidecar around local Whisper.cpp inference, with optional Groq LPU cloud transcription, global hotkeys, and automatic paste.
 
 ### [GigaMC](https://gigamc2.netlify.app)
 
-A full-stack community platform for the GigaMC network. I built the tournament-management backend and forum workflow for staff applications, wiring Discord OAuth, Supabase persistence, and an admin panel so staff could run core community operations from one place.
-
-**Tech:** React · TypeScript · Tailwind CSS · Node.js · Supabase
+A full-stack community platform for running tournaments, staff applications, and forum workflows in one place. I built the React/TypeScript interface and Node.js/Supabase backend, integrated Discord OAuth, and shipped an admin panel so the GigaMC team could manage community operations from one system.
 
 ## Collaboration
 
