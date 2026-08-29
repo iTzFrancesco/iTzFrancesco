@@ -10,7 +10,7 @@ I'm a 17-year-old Full-Stack AI Engineer from Italy. I build web products, local
 
 ## What I build
 
-Projects that turn messy workflows into focused tools, from AI tooling and community operations to voice and hardware interfaces. I focus on local-first architecture, practical UX, and the engineering details that make software reliable from first commit to deployment.
+Projects that turn messy workflows into focused tools, from AI native tooling and community operations to voice and hardware interfaces. I focus on local-first architecture, practical UX, and the engineering details that make software reliable from first commit to deployment.
 
 ## Stack
 
