@@ -6,7 +6,7 @@ I'm a 17-year-old Full-Stack AI Engineer from Italy. I build web products, local
 
 - 🛸 [DJI RC-N1C Flight Deck](https://github.com/iTzFrancesco/dji-rcn1c-flight-deck): open-source DJI RC-N1C input bridge with USB/Wi-Fi transport for PC and Android flight simulators.
 - 🎙️ [Traflix Voice](https://github.com/iTzFrancesco/Traflix-Voice): privacy-first desktop dictation with local Whisper.cpp and optional Groq LPU inference.
-- 🧠 [Traflix Space](https://github.com/iTzFrancesco/Traflix-Space): open-source Windows workspace for coordinating multiple projects, live agent sessions, and workspace-aware Jarvis.
+- 🧠 [Traflix Space](https://github.com/iTzFrancesco/Traflix-Space): an IDE for coordinating multiple projects and agents, with live terminal sessions and workspace-aware Jarvis.
 - 🧱 [GigaMC](https://gigamc2.netlify.app): full-stack community platform for tournaments, forums, and staff workflows.
 
 ## What I build
@@ -15,7 +15,7 @@ Projects that turn messy workflows into focused tools, from AI tooling and commu
 
 ## AI workflow
 
-I use AI as a focused engineering loop: 🎙️ Voice captures intent, 🧠 Space keeps project context and Jarvis together, and ⚙️ Codex, Claude Code, OpenCode, and Pi handle focused passes. Tests, browser checks, and diff review decide what ships.
+I use AI as a focused engineering loop: Voice captures intent, Space keeps project context and Jarvis together, and Codex, Claude Code, OpenCode, and Pi handle focused passes. Tests, browser checks, and diff review decide what ships.
 
 ## Stack
 
@@ -33,7 +33,7 @@ An open-source desktop dictation tool that turns spoken ideas into text inside t
 
 ### [Traflix Space](https://github.com/iTzFrancesco/Traflix-Space)
 
-An open-source Windows workspace for coordinating development across projects and agents. I use it as a control room: keep multiple workspaces and live terminal sessions available, run different coding agents side by side, and give each one a focused role instead of mixing every task into one chat. Jarvis adds workspace-aware context and controlled actions through the Codex App Server. Stack: React/TypeScript, Tauri/Rust, ConPTY, and xterm.js.
+An open-source IDE for coordinating multiple projects and agents. I use it as a control room: keep multiple workspaces and live terminal sessions available, run different coding agents side by side, and give each one a focused role instead of mixing every task into one chat. Jarvis adds workspace-aware context and controlled actions through the Codex App Server. Stack: React/TypeScript, Tauri/Rust, ConPTY, and xterm.js.
 
 ### [GigaMC](https://gigamc2.netlify.app)
 
