@@ -1,26 +1,21 @@
-# Hi, I'm Francesco
+# Hi, I'm Francesco 👋
 
-I'm a 17-year-old Full-Stack AI Engineer from Italy. I build web products, local-first AI tools, and hardware-to-software systems, taking them from interface to deployment since 2024. I also build the tools that shape how I work: Traflix Voice captures intent, while Traflix Space keeps projects, terminals, and coding agents together.
+I'm a 17-year-old Full-Stack AI Engineer from Italy. I build web products, local-first AI tools, and hardware-to-software systems, taking them from interface to deployment since 2024.
 
 ## Start Here
 
-- [DJI RC-N1C Flight Deck](https://github.com/iTzFrancesco/dji-rcn1c-flight-deck): open-source bridge that lets a real DJI RC-N1C remote control PC and Android flight simulators over USB or Wi-Fi.
-- [Traflix Voice](https://github.com/iTzFrancesco/Traflix-Voice): open-source desktop dictation that turns spoken ideas into text inside the active app, with a local-first path and automatic paste.
-- [Traflix Space](https://github.com/iTzFrancesco/Traflix-Space): open-source Windows workspace for coordinating multiple projects, live agent sessions, and workspace-aware Jarvis.
-- [GigaMC](https://gigamc2.netlify.app): full-stack community operations platform for tournaments, forums, staff workflows, and administration.
+- 🛸 [DJI RC-N1C Flight Deck](https://github.com/iTzFrancesco/dji-rcn1c-flight-deck): open-source DJI RC-N1C input bridge with USB/Wi-Fi transport for PC and Android flight simulators.
+- 🎙️ [Traflix Voice](https://github.com/iTzFrancesco/Traflix-Voice): privacy-first desktop dictation with local Whisper.cpp and optional Groq LPU inference.
+- 🧠 [Traflix Space](https://github.com/iTzFrancesco/Traflix-Space): open-source Windows workspace for coordinating multiple projects, live agent sessions, and workspace-aware Jarvis.
+- 🧱 [GigaMC](https://gigamc2.netlify.app): full-stack community platform for tournaments, forums, and staff workflows.
 
 ## What I build
 
-I build products that turn messy workflows into focused tools. My AI work stays close to the user's task: Voice captures intent, Space provides project context and lets me run different agents side by side, and tests and runtime checks decide what ships. The same approach extends to community operations, hardware interfaces, and other projects: use the right tool for a focused pass, keep boundaries clear, and verify the result.
+Projects that turn messy workflows into focused tools, from AI tooling and community operations to voice and hardware interfaces. I focus on local-first architecture, practical UX, and the engineering details that make software reliable from first commit to deployment.
 
 ## AI workflow
 
-I use AI as part of an engineering loop, not as a replacement for engineering judgment:
-
-1. **Capture intent:** Traflix Voice turns an idea, bug, or next action into text inside the active tool. Local Whisper is the default; Groq is an explicit cloud option when speed matters.
-2. **Keep context together:** Traflix Space keeps the repository, real terminals, files, and screenshots in one workspace. Jarvis adds workspace-aware context and controlled actions through the Codex App Server.
-3. **Run focused passes:** Codex, Claude Code, OpenCode, Pi, and other agents get bounded roles such as exploring, implementing, reviewing, or diagnosing.
-4. **Verify the change:** I close the loop with targeted tests, lint/build, browser checks, and a review of the actual diff.
+I use AI as a focused engineering loop: 🎙️ Voice captures intent, 🧠 Space keeps project context and Jarvis together, and ⚙️ Codex, Claude Code, OpenCode, and Pi handle focused passes. Tests, browser checks, and diff review decide what ships.
 
 ## Stack
 
