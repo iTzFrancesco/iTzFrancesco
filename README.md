@@ -1,6 +1,6 @@
 # Hi, I'm Francesco 👋
 
-I'm a 17-year-old Full-Stack AI Engineer from Italy. I build web products, local-first AI tools, and hardware-to-software systems, taking them from interface to deployment since 2024.
+I'm a 18-year-old Full-Stack AI Engineer from Italy. I build web products, local-first AI tools, and hardware-to-software systems, taking them from interface to deployment since 2024.
 
 ## Start Here
 
