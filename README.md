@@ -5,7 +5,7 @@ I'm a 18-year-old Full-Stack AI Engineer from Italy. I build web products, local
 ## Start Here
 
 - 🛸 [DJI RC-N1C Flight Deck](https://github.com/iTzFrancesco/dji-rcn1c-flight-deck): open-source DJI RC-N1C input bridge with USB/Wi-Fi transport for PC and Android flight simulators.
-- 🎙️ [Traflix Voice](https://github.com/iTzFrancesco/Traflix-Voice): privacy-first desktop dictation with local Whisper.cpp and optional Groq LPU inference.
+- 🎙️ [Traflix Voice](https://github.com/iTzFrancesco/Traflix-Voice): open-source dictation for Windows and Android. Windows supports local Parakeet TDT 0.6B v3 through sherpa-onnx and optional Groq Cloud; the Android preview uses Groq Cloud.
 - 🧠 [Traflix Space](https://github.com/iTzFrancesco/Traflix-Space): an ADE for coordinating multiple projects and agents, with live terminal sessions and workspace-aware Jarvis.
 - 🧱 [GigaMC](https://gigamc2.netlify.app): full-stack community platform for tournaments, forums, and staff workflows.
 
@@ -29,7 +29,7 @@ An open-source bridge that lets a real DJI RC-N1C remote control PC and Android 
 
 ### [Traflix Voice](https://github.com/iTzFrancesco/Traflix-Voice)
 
-An open-source desktop dictation tool that turns spoken ideas into text inside the app I am already using. Its special part is the local-first experience: global hotkeys, automatic paste, and repeated latency and reliability work around recording, transcription, and provider switching. The project benchmark measures the local stop-to-request path at 0.179 ms median / 0.303 ms p95; full inference varies with the selected model and provider. Stack: Tauri/Rust, React/TypeScript, Python, Whisper.cpp, and Groq.
+An open-source dictation app for Windows and Android. On Windows, local transcription runs with Parakeet TDT 0.6B v3 through sherpa-onnx, while Groq Cloud is an optional provider. Global hotkeys send transcripts to the active Windows app through automatic paste. The Android preview uses Groq Cloud. Stack: Tauri/Rust, React/TypeScript, Python, sherpa-onnx, and Kotlin.
 
 ### [Traflix Space](https://github.com/iTzFrancesco/Traflix-Space)
 
