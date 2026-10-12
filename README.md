@@ -15,7 +15,7 @@ Projects that turn messy workflows into focused tools, from AI tooling and commu
 
 ## AI workflow
 
-I use AI as a focused engineering loop: Voice captures intent, Space keeps project context and Jarvis together, and Codex, Claude Code, OpenCode, and Pi handle focused passes. Tests, browser checks, and diff review decide what ships.
+I use AI throughout software development to orchestrate tools and agents, plan projects and changes, create features, debug issues, and review results. I steer the process and verify what ships.
 
 ## Stack
 
