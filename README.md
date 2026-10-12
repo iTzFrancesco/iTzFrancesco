@@ -4,6 +4,8 @@ I'm a 18-year-old Full-Stack AI Engineer from Italy. I build web products, local
 
 ## Start Here
 
+- 🔎 [DeepScan AI](https://deepscan.traflix.dev): AI-assisted security and launch-readiness audits for public web apps, with plain-language findings from a public HTTPS URL.
+- 📚 [Traflix Study](https://study.traflix.dev): turns notes, photos, and text-based PDFs into source-linked flashcards and practice questions.
 - 🛸 [DJI RC-N1C Flight Deck](https://github.com/iTzFrancesco/dji-rcn1c-flight-deck): open-source DJI RC-N1C input bridge with USB/Wi-Fi transport for PC and Android flight simulators.
 - 🎙️ [Traflix Voice](https://github.com/iTzFrancesco/Traflix-Voice): open-source dictation for Windows and Android. Windows supports local Parakeet TDT 0.6B v3 through sherpa-onnx and optional Groq Cloud; the Android preview uses Groq Cloud.
 - 🧠 [Traflix Space](https://github.com/iTzFrancesco/Traflix-Space): an ADE for coordinating multiple projects and agents, with live terminal sessions and workspace-aware Jarvis.
@@ -22,6 +24,14 @@ I use AI throughout software development to orchestrate tools and agents, plan p
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF6B00?style=flat-square)
 
 ## Selected work
+
+### [DeepScan AI](https://deepscan.traflix.dev)
+
+An AI-assisted security and launch-readiness audit for apps built with coding assistants. Submit a public HTTPS URL to get a plain-language report with prioritized findings across web security and production readiness, plus an infrastructure cost estimate. Stack: Next.js/TypeScript, Python, Supabase, QStash, Upstash Redis, and Vercel.
+
+### [Traflix Study](https://study.traflix.dev)
+
+An AI-assisted study app that turns notes, photos, and text-based PDFs into flashcards, practice questions, or both. Every item links to the source material, and the one-at-a-time study flow lets students reveal answers and record attempts. Stack: Next.js/TypeScript, Supabase, QStash, and an OpenCode gateway.
 
 ### [DJI RC-N1C Flight Deck](https://github.com/iTzFrancesco/dji-rcn1c-flight-deck)
 
