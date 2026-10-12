@@ -27,7 +27,7 @@ I use AI throughout software development to orchestrate tools and agents, plan p
 
 ### [DeepScan AI](https://deepscan.traflix.dev)
 
-An AI-assisted security and launch-readiness audit for apps built with coding assistants. Submit a public HTTPS URL to get a plain-language report with prioritized findings across web security and production readiness, plus an infrastructure cost estimate. Stack: Next.js/TypeScript, Python, Supabase, QStash, Upstash Redis, and Vercel.
+An AI-assisted security and launch-readiness audit for public web apps. Submit a public HTTPS URL to get a plain-language report with prioritized findings across web security and production readiness, plus an infrastructure cost estimate. Stack: Next.js/TypeScript, Python, Supabase, QStash, Upstash Redis, and Vercel.
 
 ### [Traflix Study](https://study.traflix.dev)
 
