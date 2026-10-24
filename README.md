@@ -55,4 +55,4 @@ I'm open to open-source collaborations, developer tools, and practical AI projec
 
 **Working on something interesting? Get in touch.**
 
-[Portfolio](https://traflix.dev) · [GitHub](https://github.com/iTzFrancesco) · [Email](mailto:francesco@traflix.dev) · [Discord](https://discord.com/users/811969190742327326)
+[Portfolio](https://dev.traflix.dev) · [GitHub](https://github.com/iTzFrancesco) · [Email](mailto:francesco@traflix.dev) · [Discord](https://discord.com/users/811969190742327326)
